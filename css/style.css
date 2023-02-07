@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    margin: auto;
+    width: 80%;
+    font-family: 'Fjalla One', sans-serif;
+   
+}
+.container em{
+    color: brown;
+    text-align: end;
+}
+#nameHeader{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    border: gray 7px solid;
+    background-color: lightseagreen;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.projSection{
+    background-color: #aaf0d1 ;
+    border: 5px lightgrey dashed;
+    margin: 5px;
+    padding: 10px 10px;
+}
+.secTitle{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.workSection{
+    background-color: #99e6b3 ;
+    border: 5px lightslategray dashed;
+    margin: 5px;
+    padding: 10px 10px;
+}
